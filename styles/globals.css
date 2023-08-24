@@ -1,6 +1,6 @@
 html,
 body {
-  background-color: deeppink;
+  /*background-color: deeppink;*/
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #f6f948;
+  color: #0070f3;
   text-decoration: none;
 }
 
